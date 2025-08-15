@@ -13,4 +13,4 @@ This project implements a spam detection system using the Naive Bayes algorithm,
    - **Bar Chart**: Displays the precision, recall, and F1-score for both "ham" and "spam" classes.
 
 ## Author
-This project was developed by **Kunal Dahal**.
+This project was developed by **Subaru Sir!**.
